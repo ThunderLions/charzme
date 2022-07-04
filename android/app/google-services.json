@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "204818826038",
+    "project_id": "charzme",
+    "storage_bucket": "charzme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204818826038:android:2ba0bff99f8d863507a997",
+        "android_client_info": {
+          "package_name": "com.example.charzme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204818826038-rj4c4vkeo4jhrqtfcnc6k1s7793a4j5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSWO6H9E3LVY8O0jGQ-tqTVzJHqvegQX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204818826038-rj4c4vkeo4jhrqtfcnc6k1s7793a4j5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "204818826038-b4hkfb905fv2cug33rcknqg03h9s6gpn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.charzme"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
